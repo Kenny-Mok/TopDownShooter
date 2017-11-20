@@ -439,6 +439,14 @@
             }
         },
         {
+            "Key": "f6681388-0721-4f25-a5ed-d66b50448405",
+            "Value": {
+                "id": "1a8b98cc-3264-4323-bb01-7a498c752554",
+                "resourcePath": "objects\\obj_Timer\\obj_Timer.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "fbd7acc0-c333-4399-8617-ede0019c7784",
             "Value": {
                 "id": "8ee04a7a-b8c6-45d3-bdc5-5d20f92068b9",

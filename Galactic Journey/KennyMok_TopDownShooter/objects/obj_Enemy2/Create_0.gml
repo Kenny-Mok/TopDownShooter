@@ -1,10 +1,10 @@
 /// @DnDAction : YoYo Games.Common.Execute_Code
 /// @DnDVersion : 1
 /// @DnDHash : 722EA361
-/// @DnDArgument : "code" "global.maxHP = 4;$(13_10)hp = global.maxHP;$(13_10)spd = max(1, random(10));$(13_10)enemy2laser = 0;"
+/// @DnDArgument : "code" "global.maxHP = 4;$(13_10)hp = global.maxHP;$(13_10)spd = max(3, random(6));$(13_10)enemy2laser = 0;"
 global.maxHP = 4;
 hp = global.maxHP;
-spd = max(1, random(10));
+spd = max(3, random(6));
 enemy2laser = 0;
 
 /// @DnDAction : YoYo Games.Common.Variable
