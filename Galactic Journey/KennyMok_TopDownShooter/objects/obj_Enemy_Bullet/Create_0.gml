@@ -1,11 +1,8 @@
-/// @DnDAction : YoYo Games.Movement.Set_Direction_Fixed
-/// @DnDVersion : 1.1
-/// @DnDHash : 023D5F30
-/// @DnDArgument : "direction" "90"
-direction = 90;
-
-/// @DnDAction : YoYo Games.Movement.Set_Speed
+/// @DnDAction : YoYo Games.Common.Execute_Code
 /// @DnDVersion : 1
-/// @DnDHash : 57B47B55
-/// @DnDArgument : "speed" "15"
-speed = 15;
+/// @DnDHash : 235141A6
+/// @DnDArgument : "code" "direction = point_direction(x,y,obj_Player.x,obj_Player.y);$(13_10)direction = direction + random_range(-5,5);$(13_10)speed = 4;$(13_10)image_angle = direction;"
+direction = point_direction(x,y,obj_Player.x,obj_Player.y);
+direction = direction + random_range(-5,5);
+speed = 4;
+image_angle = direction;

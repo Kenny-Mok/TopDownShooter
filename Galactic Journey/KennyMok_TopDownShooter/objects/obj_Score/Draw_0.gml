@@ -37,8 +37,8 @@ draw_set_alpha(($FFFFFFFF >> 24) / $ff);
 /// @DnDAction : YoYo Games.Drawing.Draw_Value
 /// @DnDVersion : 1
 /// @DnDHash : 317CE3A6
-/// @DnDArgument : "x" "cx "
+/// @DnDArgument : "x" "cx  - 28"
 /// @DnDArgument : "y" "cy + 32"
 /// @DnDArgument : "caption" ""Score: ""
 /// @DnDArgument : "var" "theScore"
-draw_text(cx , cy + 32, string("Score: ") + string(theScore));
+draw_text(cx  - 28, cy + 32, string("Score: ") + string(theScore));

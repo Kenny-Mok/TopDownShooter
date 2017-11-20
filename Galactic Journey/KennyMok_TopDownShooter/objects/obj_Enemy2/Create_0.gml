@@ -1,11 +1,11 @@
 /// @DnDAction : YoYo Games.Common.Execute_Code
 /// @DnDVersion : 1
 /// @DnDHash : 722EA361
-/// @DnDArgument : "code" "e_current_Weapon = 0;$(13_10)hp = 2;$(13_10)spd = 5;$(13_10)e_laser_cooldown = 0;"
-e_current_Weapon = 0;
-hp = 2;
-spd = 5;
-e_laser_cooldown = 0;
+/// @DnDArgument : "code" "global.maxHP = 4;$(13_10)hp = global.maxHP;$(13_10)spd = max(1, random(10));$(13_10)enemy2laser = 0;"
+global.maxHP = 4;
+hp = global.maxHP;
+spd = max(1, random(10));
+enemy2laser = 0;
 
 /// @DnDAction : YoYo Games.Common.Variable
 /// @DnDVersion : 1
