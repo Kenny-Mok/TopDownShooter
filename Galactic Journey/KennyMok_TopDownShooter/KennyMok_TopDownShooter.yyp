@@ -191,6 +191,14 @@
             }
         },
         {
+            "Key": "58b3ada9-ccb7-4aec-925d-7cb7d26ec0e6",
+            "Value": {
+                "id": "cf535abb-34f4-4937-b4c3-8bfbf673b765",
+                "resourcePath": "objects\\obj_lrgAsteroid\\obj_lrgAsteroid.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "59f75695-2650-4222-bccc-25e9a50b1736",
             "Value": {
                 "id": "59efc841-d68a-42ef-941a-6b85ac7cdcfc",
