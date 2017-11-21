@@ -255,6 +255,14 @@
             }
         },
         {
+            "Key": "6c5282ac-ba55-425f-9a6e-655d01e96838",
+            "Value": {
+                "id": "20f6e136-bcdd-4dfa-96df-5456c338b8b3",
+                "resourcePath": "sprites\\spr_Win\\spr_Win.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "6d2173c2-e340-48c6-982d-8b6c6f0900db",
             "Value": {
                 "id": "1e6701f8-c741-45f8-9edf-15637adf12f2",
@@ -340,6 +348,14 @@
                 "id": "6030be3d-04a3-4002-bcd2-5507c92cff13",
                 "resourcePath": "options\\linux\\options_linux.yy",
                 "resourceType": "GMLinuxOptions"
+            }
+        },
+        {
+            "Key": "ab226450-fd89-44ad-9d4e-23047af1eb6b",
+            "Value": {
+                "id": "1ecc588d-0980-487d-b6d5-02f9f4b8dd7b",
+                "resourcePath": "rooms\\rm_Win\\rm_Win.yy",
+                "resourceType": "GMRoom"
             }
         },
         {
@@ -463,11 +479,27 @@
             }
         },
         {
+            "Key": "e4656798-10ab-44de-98c5-b6ba890bcbb7",
+            "Value": {
+                "id": "d8fe24a0-53f3-43a4-bfe2-7219d3590334",
+                "resourcePath": "rooms\\rm_Lose\\rm_Lose.yy",
+                "resourceType": "GMRoom"
+            }
+        },
+        {
             "Key": "e568f170-e574-4011-9e47-76dba95080d5",
             "Value": {
                 "id": "299e8e4d-311b-41a8-bad7-e7bacb2b6ac3",
                 "resourcePath": "views\\e568f170-e574-4011-9e47-76dba95080d5.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "e772b77c-fd5c-4e34-9d09-e17e6154239a",
+            "Value": {
+                "id": "2a4601d0-5a8b-45d8-bfe0-e0a8584c5b24",
+                "resourcePath": "sprites\\spr_Lose\\spr_Lose.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
