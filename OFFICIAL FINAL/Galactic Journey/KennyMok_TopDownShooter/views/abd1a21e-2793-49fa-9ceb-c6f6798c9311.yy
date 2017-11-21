@@ -8,7 +8,8 @@
         "d5d9adb5-97ad-4672-970d-79f963f321a7",
         "9347742d-a6c3-4acd-8046-dd244e1ba0de",
         "f6681388-0721-4f25-a5ed-d66b50448405",
-        "522397fa-ec9f-4eb6-9ac6-c755d72cda0b"
+        "522397fa-ec9f-4eb6-9ac6-c755d72cda0b",
+        "6c204754-7db3-4fca-b55d-7dfbf560e874"
     ],
     "filterType": "GMObject",
     "folderName": "Scores And Spawners",

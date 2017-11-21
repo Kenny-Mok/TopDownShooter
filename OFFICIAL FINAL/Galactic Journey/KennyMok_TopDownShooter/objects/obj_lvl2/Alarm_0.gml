@@ -1,8 +1,8 @@
 /// @DnDAction : YoYo Games.Instances.Set_Alarm
 /// @DnDVersion : 1
 /// @DnDHash : 3868F9A7
-/// @DnDArgument : "steps" "120"
-alarm_set(0, 120);
+/// @DnDArgument : "steps" "360"
+alarm_set(0, 360);
 
 /// @DnDAction : YoYo Games.Common.Variable
 /// @DnDVersion : 1
@@ -16,12 +16,12 @@ alarm_set(0, 120);
 /// @DnDAction : YoYo Games.Instances.Create_Instance
 /// @DnDVersion : 1
 /// @DnDHash : 4E9338EE
-/// @DnDArgument : "xpos" "random_range(global.SpawnTest,room_width-100)"
-/// @DnDArgument : "ypos" "random_range(-global.SpawnTest,-200)"
-/// @DnDArgument : "objectid" "obj_Enemy"
+/// @DnDArgument : "xpos" "random_range(global.SpawnTest2,room_width-100)"
+/// @DnDArgument : "ypos" "random_range(-global.SpawnTest2,-200)"
+/// @DnDArgument : "objectid" "obj_Enemy2"
 /// @DnDArgument : "layer" ""Layer_Enemies""
-/// @DnDSaveInfo : "objectid" "98dca6bf-e10f-434a-9c00-340222df5095"
-instance_create_layer(random_range(global.SpawnTest,room_width-100), random_range(-global.SpawnTest,-200), "Layer_Enemies", obj_Enemy);
+/// @DnDSaveInfo : "objectid" "b37a16f5-5f00-4173-a081-a09555620e03"
+instance_create_layer(random_range(global.SpawnTest2,room_width-100), random_range(-global.SpawnTest2,-200), "Layer_Enemies", obj_Enemy2);
 
 /// @DnDAction : YoYo Games.Common.If_Variable
 /// @DnDVersion : 1
