@@ -135,6 +135,14 @@
             }
         },
         {
+            "Key": "301ab2af-14f4-4c66-bbff-72c5c2489c52",
+            "Value": {
+                "id": "5c3ee9f7-d172-4a79-8566-51085e70de38",
+                "resourcePath": "sounds\\snd_EnemyDeath1\\snd_EnemyDeath1.yy",
+                "resourceType": "GMSound"
+            }
+        },
+        {
             "Key": "3307207f-c2d5-42db-b1de-946938a70713",
             "Value": {
                 "id": "20bbe346-aba0-4b84-9425-4f2a01ebba38",
@@ -500,6 +508,14 @@
                 "id": "d1595db5-381f-4f0a-932d-eab016483ded",
                 "resourcePath": "objects\\obj_smlAsteroid\\obj_smlAsteroid.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "e2452050-62de-402b-8ce6-e2b7046fb3c6",
+            "Value": {
+                "id": "de7e2489-546a-4705-9798-4cc63ed0d48a",
+                "resourcePath": "sounds\\snd_AsteroidDeath\\snd_AsteroidDeath.yy",
+                "resourceType": "GMSound"
             }
         },
         {
