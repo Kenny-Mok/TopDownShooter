@@ -42,3 +42,15 @@ draw_set_alpha(($FFFFFFFF >> 24) / $ff);
 /// @DnDArgument : "caption" ""Score: ""
 /// @DnDArgument : "var" "global.theScore"
 draw_text(cx  - 28, cy + 32, string("Score: ") + string(global.theScore));
+
+/// @DnDAction : YoYo Games.Rooms.If_Last_Room
+/// @DnDVersion : 1
+/// @DnDHash : 238F13C4
+if(room == room_last)
+{
+	/// @DnDAction : YoYo Games.Instances.Destroy_Instance
+	/// @DnDVersion : 1
+	/// @DnDHash : 006C0E09
+	/// @DnDParent : 238F13C4
+	instance_destroy();
+}

@@ -79,6 +79,14 @@
             }
         },
         {
+            "Key": "1f994bf0-8b61-4780-bb37-4a424bdc6833",
+            "Value": {
+                "id": "0b1e18da-d573-489f-88b6-1bb6eea06c2d",
+                "resourcePath": "objects\\obj_Lose\\obj_Lose.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "1fca8b7d-da5c-472c-9f62-c60948bee713",
             "Value": {
                 "id": "5b62a4eb-1c0a-48ec-8f5e-53c4f9359f49",
@@ -239,6 +247,14 @@
             }
         },
         {
+            "Key": "68011482-4ef9-427e-a6c5-cc4bdbdbd899",
+            "Value": {
+                "id": "65f2f8b7-0516-432f-a50f-65c76b6a4d95",
+                "resourcePath": "objects\\obj_Win\\obj_Win.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "692f23ba-82d1-43a9-b208-c3b0a9ea0187",
             "Value": {
                 "id": "7c6f9034-4f64-4d9b-b2b8-3c467ed907ec",
@@ -335,11 +351,27 @@
             }
         },
         {
+            "Key": "9dea07ae-d335-482a-91b5-fb0dcfc33d13",
+            "Value": {
+                "id": "e8a4d249-2d19-49d5-be26-f432aa1dbdfd",
+                "resourcePath": "rooms\\rm_Instruction\\rm_Instruction.yy",
+                "resourceType": "GMRoom"
+            }
+        },
+        {
             "Key": "9e02195f-24cc-43c3-a940-2c42953a12c0",
             "Value": {
                 "id": "a0e98edc-32a7-4bf3-ae62-5e5466e76f9d",
                 "resourcePath": "views\\9e02195f-24cc-43c3-a940-2c42953a12c0.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "a540ec1c-af78-4f14-bdca-1a0f4833d6cc",
+            "Value": {
+                "id": "cfa35cec-3ddb-4c30-b406-4163a302c175",
+                "resourcePath": "sprites\\spr_Buttons\\spr_Buttons.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
