@@ -327,6 +327,14 @@
             }
         },
         {
+            "Key": "79f082fd-ffa6-403d-a86a-bfa5c69e7b9d",
+            "Value": {
+                "id": "34e7b147-039c-4f76-97e8-a6e796a606d0",
+                "resourcePath": "sounds\\snd_ShipCollision\\snd_ShipCollision.yy",
+                "resourceType": "GMSound"
+            }
+        },
+        {
             "Key": "7ab167ed-85a6-4344-97a2-8ec6cfd9f17e",
             "Value": {
                 "id": "cb978920-01a5-47c0-b0b1-8174ccb67b46",
@@ -444,6 +452,14 @@
                 "id": "f71db192-940b-40ba-bdfb-5fd230eabf9d",
                 "resourcePath": "views\\bbd0fe3c-d317-48a7-977d-e184b899101f.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "bbec8ca0-7d6b-4403-b860-7d1533f12c53",
+            "Value": {
+                "id": "1189dc3f-fef8-46b0-a1db-820a182c11eb",
+                "resourcePath": "sounds\\snd_EnemyDeath2\\snd_EnemyDeath2.yy",
+                "resourceType": "GMSound"
             }
         },
         {
