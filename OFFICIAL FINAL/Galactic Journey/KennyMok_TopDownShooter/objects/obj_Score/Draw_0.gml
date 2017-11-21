@@ -46,11 +46,9 @@ draw_text(cx  - 28, cy + 32, string("Score: ") + string(global.theScore));
 /// @DnDAction : YoYo Games.Rooms.If_Last_Room
 /// @DnDVersion : 1
 /// @DnDHash : 238F13C4
-if(room == room_last)
-{
-	/// @DnDAction : YoYo Games.Instances.Destroy_Instance
-	/// @DnDVersion : 1
-	/// @DnDHash : 006C0E09
-	/// @DnDParent : 238F13C4
-	instance_destroy();
-}
+/// @DnDDisabled : 1
+/// @DnDAction : YoYo Games.Instances.Destroy_Instance
+/// @DnDVersion : 1
+/// @DnDHash : 006C0E09
+/// @DnDDisabled : 1
+/// @DnDParent : 238F13C4
